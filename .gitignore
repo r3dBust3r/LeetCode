@@ -1,0 +1,31 @@
+# ===== Python =====
+__pycache__/
+*.pyo
+*.pyd
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# ===== C / C++ =====
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dll
+*.dSYM/
+
+# ===== Editors & OS junk =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+.DS_Store
+Thumbs.db
